@@ -1,0 +1,13 @@
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Recepta.vbprojAssemblyReference.cache
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Recepta.vbproj.GenerateResource.cache
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Recepta.vbproj.CoreCompileInputs.cache
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\bin\Debug\Receptes.exe.config
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\bin\Debug\Receptes.exe
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\bin\Debug\Receptes.pdb
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\bin\Debug\Receptes.xml
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Receptes.EditarRecepta.resources
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Receptes.Benvinguda.resources
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Receptes.Resources.resources
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Receptes.exe
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Receptes.xml
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\obj\Debug\Receptes.pdb

@@ -1,0 +1,11 @@
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\IOC\FP Oberta\M07-DESENVOLUPAMENT D'INTERFICIES\Exercicis\EAC2\Receptes\WindowsApp1\obj\Debug\WindowsApp1.pdb

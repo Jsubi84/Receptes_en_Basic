@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Recepta" msprop:Generator_TableClassName="ReceptaDataTable" msprop:Generator_TableVarName="tableRecepta" msprop:Generator_RowChangedName="ReceptaRowChanged" msprop:Generator_TablePropName="Recepta" msprop:Generator_RowDeletingName="ReceptaRowDeleting" msprop:Generator_RowChangingName="ReceptaRowChanging" msprop:Generator_RowEvHandlerName="ReceptaRowChangeEventHandler" msprop:Generator_RowDeletedName="ReceptaRowDeleted" msprop:Generator_RowClassName="ReceptaRow" msprop:Generator_UserTableName="Recepta" msprop:Generator_RowEvArgName="ReceptaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDRecepta" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" msprop:Generator_ColumnVarNameInTable="columnIDRecepta" msprop:Generator_ColumnPropNameInRow="IDRecepta" msprop:Generator_ColumnPropNameInTable="IDReceptaColumn" msprop:Generator_UserColumnName="IDRecepta" type="xs:int" />
+              <xs:element name="NomRecepta" msprop:Generator_ColumnVarNameInTable="columnNomRecepta" msprop:Generator_ColumnPropNameInRow="NomRecepta" msprop:Generator_ColumnPropNameInTable="NomReceptaColumn" msprop:Generator_UserColumnName="NomRecepta" type="xs:string" minOccurs="0" />
+              <xs:element name="Categoria" msprop:Generator_ColumnVarNameInTable="columnCategoria" msprop:Generator_ColumnPropNameInRow="Categoria" msprop:Generator_ColumnPropNameInTable="CategoriaColumn" msprop:Generator_UserColumnName="Categoria" type="xs:string" minOccurs="0" />
+              <xs:element name="Imatge" msprop:Generator_ColumnVarNameInTable="columnImatge" msprop:Generator_ColumnPropNameInRow="Imatge" msprop:Generator_ColumnPropNameInTable="ImatgeColumn" msprop:Generator_UserColumnName="Imatge" type="xs:string" minOccurs="0" />
+              <xs:element name="Raccions" msprop:Generator_ColumnVarNameInTable="columnRaccions" msprop:Generator_ColumnPropNameInRow="Raccions" msprop:Generator_ColumnPropNameInTable="RaccionsColumn" msprop:Generator_UserColumnName="Raccions" type="xs:string" minOccurs="0" />
+              <xs:element name="Dificultat" msprop:Generator_ColumnVarNameInTable="columnDificultat" msprop:Generator_ColumnPropNameInRow="Dificultat" msprop:Generator_ColumnPropNameInTable="DificultatColumn" msprop:Generator_UserColumnName="Dificultat" type="xs:string" default="Baixa" minOccurs="0" />
+              <xs:element name="Elaboració" msprop:Generator_ColumnVarNameInTable="columnElaboració" msprop:Generator_ColumnPropNameInRow="Elaboració" msprop:Generator_ColumnPropNameInTable="ElaboracióColumn" msprop:Generator_UserColumnName="Elaboració" type="xs:string" minOccurs="0" />
+              <xs:element name="Preferit" msprop:Generator_ColumnVarNameInTable="columnPreferit" msprop:Generator_ColumnPropNameInRow="Preferit" msprop:Generator_ColumnPropNameInTable="PreferitColumn" msprop:Generator_UserColumnName="Preferit" type="xs:boolean" default="false" minOccurs="0" />
+              <xs:element name="Ingredient" msprop:Generator_TableClassName="IngredientDataTable" msprop:Generator_TableVarName="tableIngredient" msprop:Generator_RowChangedName="IngredientRowChanged" msprop:Generator_TablePropName="Ingredient" msprop:Generator_RowDeletingName="IngredientRowDeleting" msprop:Generator_RowChangingName="IngredientRowChanging" msprop:Generator_RowEvHandlerName="IngredientRowChangeEventHandler" msprop:Generator_RowDeletedName="IngredientRowDeleted" msprop:Generator_RowClassName="IngredientRow" msprop:Generator_UserTableName="Ingredient" msprop:Generator_RowEvArgName="IngredientRowChangeEvent" minOccurs="0" maxOccurs="unbounded">
+                <xs:annotation>
+                  <xs:appinfo>
+                    <msdata:Relationship name="FK_Recepta_x0020__Ingredient" msdata:parent="Recepta" msdata:child="Ingredient" msdata:parentkey="IDRecepta" msdata:childkey="Recepta" msprop:Generator_UserChildTable="Ingredient" msprop:Generator_ChildPropName="GetIngredientRows" msprop:Generator_UserRelationName="FK_Recepta _Ingredient" msprop:Generator_ParentPropName="ReceptaRow" msprop:Generator_RelationVarName="relationFK_Recepta__Ingredient" msprop:Generator_UserParentTable="Recepta" />
+                  </xs:appinfo>
+                </xs:annotation>
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Recepta" msprop:Generator_ColumnVarNameInTable="columnRecepta" msprop:Generator_ColumnPropNameInRow="Recepta" msprop:Generator_ColumnPropNameInTable="ReceptaColumn" msprop:Generator_UserColumnName="Recepta" type="xs:int" />
+                    <xs:element name="Ingredients" msprop:Generator_ColumnVarNameInTable="columnIngredients" msprop:Generator_ColumnPropNameInRow="Ingredients" msprop:Generator_ColumnPropNameInTable="IngredientsColumn" msprop:Generator_UserColumnName="Ingredients" type="xs:string" minOccurs="0" />
+                    <xs:element name="Quantitat" msprop:Generator_ColumnVarNameInTable="columnQuantitat" msprop:Generator_ColumnPropNameInRow="Quantitat" msprop:Generator_ColumnPropNameInTable="QuantitatColumn" msprop:Generator_UserColumnName="Quantitat" type="xs:string" minOccurs="0" />
+                    <xs:element name="UnitatsMesura" msprop:Generator_ColumnVarNameInTable="columnUnitatsMesura" msprop:Generator_ColumnPropNameInRow="UnitatsMesura" msprop:Generator_ColumnPropNameInTable="UnitatsMesuraColumn" msprop:Generator_UserColumnName="UnitatsMesura" type="xs:string" minOccurs="0" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Recepta" />
+      <xs:field xpath="mstns:IDRecepta" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,589 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <Recepta>
+    <IDRecepta>1</IDRecepta>
+    <NomRecepta>Caramelos de toffe</NomRecepta>
+    <Categoria>Postres</Categoria>
+    <Imatge>caramelostoffe.jpg</Imatge>
+    <Raccions>75</Raccions>
+    <Dificultat>Mitja</Dificultat>
+    <Elaboració>
+Preparación
+
+    Para garantizar el éxito de esta receta, los ingredientes utilizados deben coincidir exactamente con la cantidad y descripción indicados. La receta debe cocinarse inmediatamente después de poner el azúcar y el resto de los ingredientes en el vaso.
+    Forre un molde de horno (17x17 cm) con papel de hornear y reserve.
+    Ponga en el vaso el azúcar, 30 g de agua, la nata, la mantequilla, el zumo de limón, la vainilla líquida e inicie Puntos del azúcar . Vierta inmediatamente del vaso en el molde preparado y deje templar durante 5 minutos. Espolvoree la superficie con sal en escamas o con frutos secos variados.
+    Ponga en el vaso 1000 g de agua y el vinagre e inicie Prelavado .
+    Deje enfriar el caramelo durante 35 minutos y corte, mientras está aun templado, con un cuchillo o unas tijeras en rectángulos de aprox. 1x3 cm. Deje enfriar completamente los toffees y envuélvalos individualemente en cuadrados de papel de hornear (5 cm). Conserve en un recipiente hermético a temperatura ambiente (vea la sugerencia).
+
+</Elaboració>
+    <Preferit>false</Preferit>
+    <Ingredient>
+      <Recepta>1</Recepta>
+      <Ingredients>azucar</Ingredients>
+      <Quantitat>315</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>1</Recepta>
+      <Ingredients>agua</Ingredients>
+      <Quantitat>1030</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>1</Recepta>
+      <Ingredients>nata (Minim 30% de grasa)</Ingredients>
+      <Quantitat>250</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>1</Recepta>
+      <Ingredients>mantequilla fria</Ingredients>
+      <Quantitat>80</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>1</Recepta>
+      <Ingredients>zumo de limon</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>cucharita</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>2</IDRecepta>
+    <NomRecepta>Chutney de cebolla roja caramelizada</NomRecepta>
+    <Categoria>Postres</Categoria>
+    <Imatge>cebolla.jpg</Imatge>
+    <Raccions>3</Raccions>
+    <Dificultat>Fàcil</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga en el vaso el aceite de oliva y las cebollas rojas e inicie Alta Temperatura .
+    Añada el chile, el azúcar moreno, la sal y el vinagre y programe 25 min/Varoma//vel 0.5. Vierta en tarros de tapa de rosca templados y cierre las tapas inmediatamente (ver sugerencia). Deje enfriar. Reserve en el frigorífico durante 1 día antes de servir. Conserve en el frigorífico hasta 1 mes.
+
+</Elaboració>
+    <Preferit>true</Preferit>
+    <Ingredient>
+      <Recepta>2</Recepta>
+      <Ingredients>aceite de oliva</Ingredients>
+      <Quantitat>25</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>2</Recepta>
+      <Ingredients>cebolla</Ingredients>
+      <Quantitat>500</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>2</Recepta>
+      <Ingredients>chile rojo fresco en tiras</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>unidad</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>2</Recepta>
+      <Ingredients>azucar moreno</Ingredients>
+      <Quantitat>200</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>2</Recepta>
+      <Ingredients>sal</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>cucharadita</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>2</Recepta>
+      <Ingredients>vinagre de vino tinto</Ingredients>
+      <Quantitat>200</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>3</IDRecepta>
+    <NomRecepta>Ensalada de pasta con pollo y salmón</NomRecepta>
+    <Categoria>Pastas</Categoria>
+    <Imatge>ensaladadepasta.jpg</Imatge>
+    <Raccions>6</Raccions>
+    <Dificultat>Fàcil</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga en el vaso la parte blanca de la cebolleta y las aceitunas y trocee 3 seg/vel 5. Retire del vaso y reserve.
+    Vierta el agua y el aceite. Programe 10 min/Varoma/vel 1.
+    Ponga en el vaso la sal y la pasta y programe el tiempo indicado en el paquete/100°C//vel .
+    Cuele la pasta en el recipiente Varoma, aclárela con agua fría y viértala en una ensaladera grande. Añada a la ensaladera la cebolleta y las aceitunas picadas reservadas, los tomates, el atún, la mayonesa y la mostaza. Mezcle suavemente con la espátula, decore con los aros de cebolleta y deje enfriar en el frigorífico 10 minutos. Sirva fría.
+
+</Elaboració>
+    <Preferit>true</Preferit>
+    <Ingredient>
+      <Recepta>3</Recepta>
+      <Ingredients>albahaca</Ingredients>
+      <Quantitat>8-10</Quantitat>
+      <UnitatsMesura>hojas</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>3</Recepta>
+      <Ingredients>oregano fresco</Ingredients>
+      <Quantitat>2</Quantitat>
+      <UnitatsMesura>ramitas</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>3</Recepta>
+      <Ingredients>aceite de oliva</Ingredients>
+      <Quantitat>50</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>3</Recepta>
+      <Ingredients>zumo de limon</Ingredients>
+      <Quantitat>20</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>3</Recepta>
+      <Ingredients>sal</Ingredients>
+      <Quantitat>2</Quantitat>
+      <UnitatsMesura>cucharitas</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>3</Recepta>
+      <Ingredients>agua</Ingredients>
+      <Quantitat>300</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>4</IDRecepta>
+    <NomRecepta>Lasaña de brócoli</NomRecepta>
+    <Categoria>Pastas</Categoria>
+    <Imatge>brocoli.jpg</Imatge>
+    <Raccions>3</Raccions>
+    <Dificultat>Alta</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga el jamón en el vaso y trocee 6 seg/vel 4. Retire a un bol y reserve.
+    Ponga el agua en el vaso. Sitúe el recipiente Varoma en su posición con el brócoli. Tape el Varoma y programe 10 min/Varoma/vel 1. Retire el Varoma y espolvoree el brócoli con un pellizco de sal. Reserve y vacíe el vaso.
+    Precaliente el horno a 180°C.
+    Ponga en el vaso la cebolla, el ajo y el aceite. T1001rocee 2 seg/vel 5 y sofría 5 min/120°C/vel 1.
+    Añada la nata, el queso ricota, el parmesano rallado, las nueces, 2 pellizcos de sal y la pimienta. Mezcle 10 seg//vel 3.
+    Vierta 5-6 cucharadas de la mezcla del vaso en una fuente refractaria de aprox. 20x30 cm. Coloque 4 placas de lasaña y vierta encima ⅓ parte de la mezcla del vaso. Ponga la mitad del brócoli sobre la crema desmenuzándolo con los dedos y añada la mitad del jamón. Tape con otras 4 placas de lasaña y bañe con la mitad de la mezcla del vaso. Reparta por encima el brócoli y el jamón restantes y cubra con otras 4 placas de lasaña. Bañe con la crema restante y espolvoree con la mozzarella rallada.
+    Hornee durante 20 minutos (180°C). Retire del horno y deje reposar unos minutos. Corte en porciones y sirva.
+
+</Elaboració>
+    <Preferit>false</Preferit>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>jamón de York en lonchas</Ingredients>
+      <Quantitat>100</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>agua</Ingredients>
+      <Quantitat>250</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>ramilletes de brócoli pequeños</Ingredients>
+      <Quantitat>300</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>sal</Ingredients>
+      <Quantitat>3</Quantitat>
+      <UnitatsMesura>pellizcos</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>cebolla en trozos</Ingredients>
+      <Quantitat>100</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>ajo</Ingredients>
+      <Quantitat>2</Quantitat>
+      <UnitatsMesura>dientes</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>aceite de oliva</Ingredients>
+      <Quantitat>30</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>nata para cocinar</Ingredients>
+      <Quantitat>400</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>queso ricota</Ingredients>
+      <Quantitat>250</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>queso parmesano rallado</Ingredients>
+      <Quantitat>70</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>nueces peladas troceadas</Ingredients>
+      <Quantitat>50</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>pimienta molida</Ingredients>
+      <Quantitat>2</Quantitat>
+      <UnitatsMesura>pellizcos</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>lasaña secas directas al horno</Ingredients>
+      <Quantitat>12</Quantitat>
+      <UnitatsMesura>placas</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>4</Recepta>
+      <Ingredients>mozzarella rallada</Ingredients>
+      <Quantitat>100</Quantitat>
+      <UnitatsMesura>g </UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>5</IDRecepta>
+    <NomRecepta>Carne picada</NomRecepta>
+    <Categoria>Carns</Categoria>
+    <Imatge>carnepicada.jpg</Imatge>
+    <Raccions>1</Raccions>
+    <Dificultat>Fàcil</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga la carne en el vaso y pique 10-12 seg/vel 6. Utilice la carne picada a su conveniencia.
+
+</Elaboració>
+    <Preferit>false</Preferit>
+    <Ingredient>
+      <Recepta>5</Recepta>
+      <Ingredients>carne sin nervios en trozos</Ingredients>
+      <Quantitat>300</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>6</IDRecepta>
+    <NomRecepta>Masa sablé sin gluten</NomRecepta>
+    <Categoria>Pans</Categoria>
+    <Imatge>masasable.jpg</Imatge>
+    <Raccions>1</Raccions>
+    <Dificultat>Mitja</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga en el vaso la harina de arroz, la harina de maíz, la mantequilla, el azúcar glas, las yemas y la levadura química y mezcle 25 seg/vel 4. Retire la masa del vaso y compacte con las manos hasta obtener una bola homogénea. Envuélvala con film transparente y reserve en el frigorífico durante 15 minutos.
+    Precaliente el horno a 180°C.
+    Ponga la masa entre 2 hojas de papel de hornear y, con el rodillo, estírela hasta que tenga un grosor de 5 mm. Coloque la masa extendida dentro de un molde de quiche (Ø 24-30 cm), sobre uno de los papeles de hornear, o corte pastas con cortapastas y colóquelas sobre una bandeja de horno forrada con uno de los papeles de hornear. Pinche varias veces el fondo y las paredes de la masa con un tenedor para evitar que se infle al hornearla. Reserve en el frigorífico durante 15 minutos.
+    Hornee la base de tarta durante 15-20 minutos (180°C) o las pastas durante 10-12 minutos (180°C), en ambos casos hasta que se doren.
+    Deje enfriar completamente (la base de tarta en el molde, las galletas sobre una rejilla). Utilice a su conveniencia o conserve en un recipiente hermético.
+
+</Elaboració>
+    <Preferit>false</Preferit>
+    <Ingredient>
+      <Recepta>6</Recepta>
+      <Ingredients>harina de arroz casera</Ingredients>
+      <Quantitat>175</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>6</Recepta>
+      <Ingredients>harina de maiz casera</Ingredients>
+      <Quantitat>100</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>6</Recepta>
+      <Ingredients>mantequilla fria en trozos</Ingredients>
+      <Quantitat>150</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>6</Recepta>
+      <Ingredients>azucar glas casero</Ingredients>
+      <Quantitat>120</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>6</Recepta>
+      <Ingredients>yemas de huevo</Ingredients>
+      <Quantitat>3</Quantitat>
+      <UnitatsMesura>unidades</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>6</Recepta>
+      <Ingredients>levadura química en polvo</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>cucharadita</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>7</IDRecepta>
+    <NomRecepta>Granizado de lima y menta</NomRecepta>
+    <Categoria>Begudes</Categoria>
+    <Imatge>granizado.jpg</Imatge>
+    <Raccions>6</Raccions>
+    <Dificultat>Mitja</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga en el vaso las limas y el agua e inicie Turbo/1 seg/3 veces. Introduzca el cestillo en el vaso, sujételo con la espátula y cuele la limonada en una jarra. Vacíe y aclare el vaso.
+    Ponga en el vaso la limonada de lima, las hojas de menta, el azúcar y el hielo y triture 20 seg/vel 8. Sirva el granizado en vasos altos y decore con hojas de menta.
+
+</Elaboració>
+    <Preferit>true</Preferit>
+    <Ingredient>
+      <Recepta>7</Recepta>
+      <Ingredients>lima en cuartos</Ingredients>
+      <Quantitat>6</Quantitat>
+      <UnitatsMesura>unidades</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>7</Recepta>
+      <Ingredients>agua</Ingredients>
+      <Quantitat>500</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>7</Recepta>
+      <Ingredients>menta fresca</Ingredients>
+      <Quantitat>20</Quantitat>
+      <UnitatsMesura>hojas</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>7</Recepta>
+      <Ingredients>azucar</Ingredients>
+      <Quantitat>200</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>7</Recepta>
+      <Ingredients>cubitos de hielo</Ingredients>
+      <Quantitat>800</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>8</IDRecepta>
+    <NomRecepta>Pescado y mejillones en salsa</NomRecepta>
+    <Categoria>Peixos</Categoria>
+    <Imatge>pescadomejillones.jpg</Imatge>
+    <Raccions>4</Raccions>
+    <Dificultat>Alta</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga en el vaso la cebolla, el ajo y el aceite y trocee 3 seg/vel 5.
+    Añada el tomate y sofría 8 min/100°C/vel 1.
+    Añada el vino, el pimentón y la sal. Sitúe el recipiente Varoma en su posición con el pescado. Coloque la bandeja Varoma con los mejillones, tape el Varoma y programe 10 min/Varoma/vel 1. Retire el Varoma y coloque el pescado y los mejillones en una fuente. Riegue con la salsa, espolvoree con el perejil y sirva inmediatamente.
+
+</Elaboració>
+    <Preferit>false</Preferit>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>cebolla</Ingredients>
+      <Quantitat>70</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>ajo</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>diente</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>aceite de oliva</Ingredients>
+      <Quantitat>25</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>tomate triturado en conserva</Ingredients>
+      <Quantitat>50</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>vino dulce</Ingredients>
+      <Quantitat>50</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>pimentón dulce</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>pellizco</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>de sal</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>cucharadita</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>filetes de pescado salpimentados</Ingredients>
+      <Quantitat>500</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>mejillones</Ingredients>
+      <Quantitat>150</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>8</Recepta>
+      <Ingredients>perejil fresco picado</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>cucharada</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>9</IDRecepta>
+    <NomRecepta>Crema de avena con pera</NomRecepta>
+    <Categoria>Entrants</Categoria>
+    <Imatge>cremaavena.jpg</Imatge>
+    <Raccions>1</Raccions>
+    <Dificultat>Fàcil</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga en el vaso la pera y el plátano. Trocee 3 seg/vel 5. Con la espátula, baje la fruta hacia el fondo del vaso.
+    Añada los copos de avena y el agua y mezcle 3 seg/vel 6. Después, programe 3 min/90°C/vel 2.
+    Incorpore el aceite y triture 30 seg/vel 10. Deje templar hasta que la temperatura descienda a 37ºC y sirva.
+
+</Elaboració>
+    <Preferit>true</Preferit>
+    <Ingredient>
+      <Recepta>9</Recepta>
+      <Ingredients>pera</Ingredients>
+      <Quantitat>80</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>9</Recepta>
+      <Ingredients>platano</Ingredients>
+      <Quantitat>20</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>9</Recepta>
+      <Ingredients>copos de avena</Ingredients>
+      <Quantitat>20</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>9</Recepta>
+      <Ingredients>agua</Ingredients>
+      <Quantitat>90</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>9</Recepta>
+      <Ingredients>aceite de oliva</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>cucharita</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+  <Recepta>
+    <IDRecepta>10</IDRecepta>
+    <NomRecepta>Tortitas de guisantes con queso feta</NomRecepta>
+    <Categoria>Entrants</Categoria>
+    <Imatge>tortitaguisantes.jpg</Imatge>
+    <Raccions>8</Raccions>
+    <Dificultat>Baixa</Dificultat>
+    <Elaboració>
+Preparación
+
+    Ponga el agua en el vaso y caliente 5 min/100°C/vel 1.
+    Añada los guisantes y programe 4 min/100°C/vel . Vierta en el cestillo para escurrir.
+    Ponga en el vaso la cebolleta y el perejil y pique 3 seg/vel 7.
+    Añada 70 g de los guisantes reservados, el huevo, la harina, el queso feta, la leche y el bicarbonato. Triture 5 seg/vel 5. Con la espátula, baje la trituración hacia el fondo del vaso.
+    Incorpore los guisantes restantes y mezcle 5 seg/vel 3.
+    Caliente una sartén con un chorrito de aceite. Ponga cucharadas de masa formando las tortitas. Cuando se doren y cuajen por un lado, deles la vuelta y dórelas por el otro lado. Repita el proceso hasta terminar la mezcla. Sirva templadas o frías.
+
+</Elaboració>
+    <Preferit>false</Preferit>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>agua</Ingredients>
+      <Quantitat>300</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>guisantes</Ingredients>
+      <Quantitat>150</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>cebolleta</Ingredients>
+      <Quantitat>50</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>perejit</Ingredients>
+      <Quantitat>3</Quantitat>
+      <UnitatsMesura>ramitas</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>huevo</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>unidad</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>harina</Ingredients>
+      <Quantitat>60</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>queso feta</Ingredients>
+      <Quantitat>30</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>leche</Ingredients>
+      <Quantitat>30</Quantitat>
+      <UnitatsMesura>g</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>bicarbonato</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>pellizo</UnitatsMesura>
+    </Ingredient>
+    <Ingredient>
+      <Recepta>10</Recepta>
+      <Ingredients>aceite de oliva</Ingredients>
+      <Quantitat>1</Quantitat>
+      <UnitatsMesura>chorrito</UnitatsMesura>
+    </Ingredient>
+  </Recepta>
+</DataSet1>
